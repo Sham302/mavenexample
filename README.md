@@ -1,0 +1,1 @@
+#maven example and collections
